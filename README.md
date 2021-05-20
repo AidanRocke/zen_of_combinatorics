@@ -1,5 +1,6 @@
-# Zen of combinatorics: 
-Probabilistic, Entropy, Incompressibility, Analytic and Ergodic methods in combinatorics.
+This collection of combinatorial methods and problems is designed to help organise math pub crawls in Leipzig:
+
+![alt text](https://raw.githubusercontent.com/AidanRocke/zen_of_combinatorics/master/images/leipzig_map.jpeg)
 
 
 ## The incompressibility method and encoding arguments:
