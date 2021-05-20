@@ -1,6 +1,18 @@
-This collection of combinatorial methods and problems is designed to help organise math pub crawls in Leipzig:
+This collection of combinatorial methods and problems is designed to help organise math pub crawls in Leipzig, the origin of Ars Combinatoria(1666).  
 
 ![alt text](https://raw.githubusercontent.com/AidanRocke/zen_of_combinatorics/master/images/leipzig_map.jpeg)
+
+**If you'd like to share a combinatorial method, feel free to open a pull request.**
+
+## Analytical methods:
+
+### Generating functions:
+
+1. [Counting set partitions](https://keplerlounge.com/statistical/physics/2021/05/02/dobinski-partitions.html)
+
+## Probabilistic and Entropy methods:
+
+1. [Sperner's theorem](https://keplerlounge.com/combinatorics/2021/05/04/sperner-families.html)
 
 
 ## The incompressibility method and encoding arguments:
