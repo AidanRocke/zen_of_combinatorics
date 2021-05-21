@@ -48,6 +48,9 @@ these constants.
 
 ### [Copeland-Erdős constant](https://www.renyi.hu/~p_erdos/1946-01.pdf)
 
+This is an excellent representation of the prime numbers because no prime number exists
+in isolation. 
+
 1. [Random Number Generators and Normal Numbers](https://www.davidhbailey.com/dhbpapers/bcnormal-em.pdf)
 
 2. [Cramer's conjecture and the distribution of prime gaps](https://dms.umontreal.ca/~andrew/PDF/cramer.pdf)
@@ -79,4 +82,4 @@ Riemann zeta function with the other special functions such as the Gamma functio
 As Chaitin's constant ultimately requires the construction of super-Turing machines,
 it is implicitly related to the Physical Church-Turing thesis and exploring it carefully
 will probably require going beyond the Standard Model. Civilisations within the Turing
-limit don't know Chaitin's constant. 
+limit don't know Chaitin's constant.

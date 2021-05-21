@@ -1,5 +1,8 @@
 (*https://mathworld.wolfram.com/e.html*)
 
+(*One of the lesser known qualities of Euler's number is that it has
+optimal radix economy.*)
+
 let rec factorial = function
     | 0 | 1 -> 1
     | n -> n * factorial (n - 1);;
