@@ -1,4 +1,4 @@
-This collection of combinatorial methods and problems is designed to help organise math pub crawls in Leipzig, the origin of Ars Combinatoria(1666). If you'd like to share a combinatorial method, feel free to open a pull request.  
+This collection of combinatorial methods and problems is designed to help organise math pub crawls in Leipzig, the origin of [Ars Combinatoria(1666)](https://www.math.ucla.edu/~pak/hidden/papers/Quotes/Leibniz-Arte-Combinatoria.pdf). If you'd like to share a combinatorial method, feel free to open a pull request.  
 
 ![alt text](https://raw.githubusercontent.com/AidanRocke/zen_of_combinatorics/master/images/leipzig_map.jpeg)
 
@@ -49,7 +49,7 @@ these constants.
 ### [Copeland-Erdős constant](https://www.renyi.hu/~p_erdos/1946-01.pdf)
 
 This is an excellent representation of the prime numbers because no prime number exists
-in isolation. 
+in isolation.
 
 1. [Random Number Generators and Normal Numbers](https://www.davidhbailey.com/dhbpapers/bcnormal-em.pdf)
 
@@ -83,3 +83,9 @@ As Chaitin's constant ultimately requires the construction of super-Turing machi
 it is implicitly related to the Physical Church-Turing thesis and exploring it carefully
 will probably require going beyond the Standard Model. Civilisations within the Turing
 limit don't know Chaitin's constant.
+
+## References:
+
+1. Dissertation on the Art of Combinations. 
+
+2. The mathematical studies of GW Leibniz on combinatorics. Eberhard Knoblich. Historia Mathematica. 1974.  
