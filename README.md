@@ -1,8 +1,6 @@
-This collection of combinatorial methods and problems is designed to help organise math pub crawls in Leipzig, the origin of Ars Combinatoria(1666).  
+This collection of combinatorial methods and problems is designed to help organise math pub crawls in Leipzig, the origin of Ars Combinatoria(1666). If you'd like to share a combinatorial method, feel free to open a pull request.  
 
 ![alt text](https://raw.githubusercontent.com/AidanRocke/zen_of_combinatorics/master/images/leipzig_map.jpeg)
-
-**If you'd like to share a combinatorial method, feel free to open a pull request.**
 
 ## Analytical methods:
 
@@ -40,3 +38,38 @@ This collection of combinatorial methods and problems is designed to help organi
 1. [Compression bounds on the Copeland-Erdős constant](https://keplerlounge.com/information-theory/2021/05/11/copeland-erdos.html)
 
 2. [An information-theoretic upper-bound on prime gaps](https://keplerlounge.com/information/theory/2021/05/19/cramer-model.html)
+
+## Fundamental constants:
+
+Just as physical constants define the epistemic limits of our most advanced scientific theories, mathematical
+constants are the fundamental building blocks of mathematics from which everything else is constructed. The
+most powerful methods in discrete mathematics should ultimately illuminate the mathematical structure of
+these constants.
+
+### [Copeland-Erdős constant](https://www.renyi.hu/~p_erdos/1946-01.pdf)
+
+1. [Random Number Generators and Normal Numbers](https://www.davidhbailey.com/dhbpapers/bcnormal-em.pdf)
+
+2. [Cramer's conjecture and the distribution of prime gaps](https://dms.umontreal.ca/~andrew/PDF/cramer.pdf)
+
+3. [Goldbach's conjecture](https://mathworld.wolfram.com/GoldbachConjecture.html)
+
+4. [Asymptotic prime partitions](https://arxiv.org/pdf/1609.06497.pdf)
+
+5. Classical Special functions and Lie Groups
+
+It is worth noting that the Riemann zeta function is the generating function for the prime numbers and the most poorly
+understood special function. The final theory of special functions must ultimately explain the subtle relation of the
+Riemann zeta function with the other special functions such as the Gamma function.
+
+### Archimedes' constant
+
+### Euler's number
+
+### Bernoulli numbers
+
+### Euler-Mascheroni constant
+
+### Khinchin's constant
+
+### Chaitin's constant
