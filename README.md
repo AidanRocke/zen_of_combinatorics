@@ -77,4 +77,6 @@ Riemann zeta function with the other special functions such as the Gamma functio
 ### [The number of fundamental constants](https://arxiv.org/pdf/physics/0110060.pdf)
 
 As Chaitin's constant ultimately requires the construction of super-Turing machines,
-possibly by engineering black holes, this will require going beyond the Standard Model.
+it is implicitly related to the Physical Church-Turing thesis and exploring it carefully
+will probably require going beyond the Standard Model. Civilisations within the Turing
+limit don't know Chaitin's constant. 
