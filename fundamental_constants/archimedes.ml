@@ -1,26 +1,25 @@
 (*Monte Carlo method.*)
-let square = fun x -> x *. x;;
-
-(*Computing the norm of a vector.*)
-let norm = fun x -> List.map square x;;
-
-(*Summing two lists of equal size.*)
-let sum_lists a b = List.map2(fun x y -> x +. y) a b;;
-
-(*Select radii that satisfy condition.*)
-let in_circle xs = List.filter (fun x -> x <= 1.0) xs;;
-
-let rec gen size =
-  List.init size (fun _ -> Random.float 1.0);;
-
 let mc_pi n =
-  (*Generate radii.*)
-  let a, b = gen n |> norm, gen n |> norm in
-  let c = sum_lists a b in
+  let square = fun x -> x *. x in
 
-  (*Use the m/n = pi/4 approximation.*)
-  let approx = 4. *. (float_of_int (List.length (in_circle c)))
-               /. (float_of_int (List.length c)) in
+  (*Computing the norm of a vector.*)
+  let norm = fun x -> List.map square x in
+
+  (*Summing two lists of equal size.*)
+  let sum_lists a b = List.map2(fun x y -> x +. y) a b in
+
+  (*Check that point is inside circle.*)
+  let in_circle xs = List.filter (fun x -> x <= 1.0) xs in
+
+  let rec gen size = List.init size (fun _ -> Random.float 1.0) in
+
+    (*Generate radii.*)
+    let a, b = gen n |> norm, gen n |> norm in
+    let c = sum_lists a b in
+
+    (*Use the m/n = pi/4 approximation.*)
+    let approx = 4. *. (float_of_int (List.length (in_circle c)))
+                 /. (float_of_int (List.length c)) in
 
   approx
 ;;
@@ -32,12 +31,15 @@ let rec factorial = function
 
 let da_powah = fun n -> 2.**(float_of_int n);;
 
+let square = fun x -> x *. x;;
+
 let newton = fun n -> (da_powah (n+1) *. (factorial n |> float_of_int |> square))
                       /. (factorial (2*n+1) |> float_of_int);;
 
 let rec newton_euler n =
-    if n < 1 then (newton 0)
-    else (newton n) +. newton_euler (n - 1);;
+  match n with
+    | 0 -> (newton 0)
+    | n -> (newton n) +. newton_euler (n - 1);;
 
 (*Floating point arithmetic breaks down aroun n =10.*)
 newton_euler 9;;

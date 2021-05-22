@@ -86,6 +86,6 @@ limit don't know Chaitin's constant.
 
 ## References:
 
-1. Dissertation on the Art of Combinations. 
+1. Dissertation on the Art of Combinations. Leibniz. 1666.
 
 2. The mathematical studies of GW Leibniz on combinatorics. Eberhard Knoblich. Historia Mathematica. 1974.  
