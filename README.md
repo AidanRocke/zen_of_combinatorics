@@ -14,6 +14,13 @@ This collection of combinatorial methods and problems is designed to help organi
 
 2. [A theorem on sum-free sets](https://keplerlounge.com/combinatorics/2021/05/22/sum-free.html)
 
+3. [Ramsey numbers and Erdős-Ramsey theory](https://keplerlounge.com/combinatorics/2021/05/26/ramsey-theory.html)
+
+## Probabilistic number theory:
+
+1. [Mertens' theorem](https://keplerlounge.com/number/theory/2021/05/23/mertens-theorem.html)
+
+2. [Information-theoretic corollaries of Mertens' theorem](https://keplerlounge.com/information-theory/2021/05/25/mertens-pnt.html)
 
 ## The incompressibility method and encoding arguments:
 
