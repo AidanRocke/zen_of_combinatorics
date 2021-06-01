@@ -24,6 +24,10 @@ This collection of combinatorial methods and problems is designed to help organi
 
 3. [Mertens' second theorem](https://keplerlounge.com/number-theory/2021/05/30/mertens-second.html)
 
+4. [The Hardy-Ramanujan theorem](https://keplerlounge.com/number-theory/2021/05/31/hardy-ramanujan.html)
+
+5. [The Erdős-Kac theorem](https://keplerlounge.com/number-theory/2021/06/01/erdos-kac.html)
+
 ## The incompressibility method and encoding arguments:
 
 ### A bit of information theory:
