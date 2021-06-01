@@ -22,6 +22,8 @@ This collection of combinatorial methods and problems is designed to help organi
 
 2. [Information-theoretic corollaries of Mertens' theorem](https://keplerlounge.com/information-theory/2021/05/25/mertens-pnt.html)
 
+3. [Mertens' second theorem](https://keplerlounge.com/number-theory/2021/05/30/mertens-second.html)
+
 ## The incompressibility method and encoding arguments:
 
 ### A bit of information theory:
